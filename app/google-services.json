@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258888748243",
+    "project_id": "ujjwal-17",
+    "storage_bucket": "ujjwal-17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258888748243:android:fd78ea00743051f2d29826",
+        "android_client_info": {
+          "package_name": "com.example.baat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258888748243-lh2njinaoi7hb1i96gk3m1p537dik1oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFojaq2FCv4AEpnUGwdJ9-c2LFmSwJRUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258888748243-lh2njinaoi7hb1i96gk3m1p537dik1oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
